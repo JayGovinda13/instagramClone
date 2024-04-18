@@ -30,9 +30,9 @@ const Sidebar = () => {
       text: "Create",
     },
     {
-      icon: <Avatar size={"sm"} name="Ted Mango" src="/profilepic.png" />,
+      icon: <Avatar size={"sm"} name="JayGovinda" src="/perfil.JPG" />,
       text: "Profile",
-      link: "/asaprogrammer",
+      link: "/jaygovinda",
     },
   ];
 
